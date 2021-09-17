@@ -7,8 +7,7 @@ import TextForm from './components/TextForm';
 import {
   BrowserRouter as Router,
   Switch,
-  Route,
-  Link
+  Route
 } from "react-router-dom";
 
 function App() {
